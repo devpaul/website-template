@@ -1,0 +1,22 @@
+{
+  "name": "website-template",
+  "version": "1.0.0",
+  "description": "Starter template for building a website",
+  "main": "index.js",
+  "scripts": {
+    "start": "webserv -t file ./site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devpaul/website-template.git"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/devpaul/website-template/issues"
+  },
+  "homepage": "https://github.com/devpaul/website-template#readme",
+  "devDependencies": {
+    "webserv": "^1.0.0"
+  }
+}
